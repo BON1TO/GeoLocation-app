@@ -6,6 +6,9 @@ Included a chat box for answering basic questions clients may have
 
 
 HOW TO USE :
+
     # Use create-react-app
+    
     # replace "src" and "public" folderswith those provided here
+    
     # start the app using npm start.
