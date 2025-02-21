@@ -3,5 +3,9 @@ The app features a clean UI with smooth interactions and real-time distance calc
 Optimized for performance, it ensures quick data retrieval and efficient API usage. 
 Future improvements may include map visualizations and advanced filtering.
 Included a chat box for answering basic questions clients may have
+
+
 HOW TO USE :
-    Use create-react-app and replace "src" and "public" folderswith those provided here then start the app using npm start.
+    # Use create-react-app
+    # replace "src" and "public" folderswith those provided here
+    # start the app using npm start.
